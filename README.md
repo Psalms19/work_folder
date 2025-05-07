@@ -1,6 +1,6 @@
 import time
 
-# Dictionary to store card numbers and corresponding PINs
+# Dictionary stores card numbers and corresponding PINs
 cardsWithPin = {123456789: 123, 987654321: 345, 234567890: 567, 345678901: 789}
 
 # Dictionary to store card numbers and corresponding account balances
